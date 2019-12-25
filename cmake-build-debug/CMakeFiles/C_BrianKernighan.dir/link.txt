@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_BrianKernighan.dir/main.c.o CMakeFiles/C_BrianKernighan.dir/chapter1/HelloWorld.c.o CMakeFiles/C_BrianKernighan.dir/chapter1/fahrenheit-to-celc.c.o CMakeFiles/C_BrianKernighan.dir/chapter1/fahr-cels-programm.c.o  -o C_BrianKernighan 
