@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/igor/C-BrianKernighan/chapter1/HelloWorld.c" "/home/igor/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/HelloWorld.c.o"
-  "/home/igor/C-BrianKernighan/chapter1/fahr-cels-programm.c" "/home/igor/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/fahr-cels-programm.c.o"
-  "/home/igor/C-BrianKernighan/chapter1/fahrenheit-to-celc.c" "/home/igor/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/fahrenheit-to-celc.c.o"
-  "/home/igor/C-BrianKernighan/main.c" "/home/igor/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/main.c.o"
+  "/home/igor/Documents/Programming/repositories/C-BrianKernighan/chapter1/HelloWorld.c" "/home/igor/Documents/Programming/repositories/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/HelloWorld.c.o"
+  "/home/igor/Documents/Programming/repositories/C-BrianKernighan/chapter1/fahr-cels-programm.c" "/home/igor/Documents/Programming/repositories/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/fahr-cels-programm.c.o"
+  "/home/igor/Documents/Programming/repositories/C-BrianKernighan/chapter1/fahrenheit-to-celc.c" "/home/igor/Documents/Programming/repositories/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/chapter1/fahrenheit-to-celc.c.o"
+  "/home/igor/Documents/Programming/repositories/C-BrianKernighan/main.c" "/home/igor/Documents/Programming/repositories/C-BrianKernighan/cmake-build-debug/CMakeFiles/C_BrianKernighan.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
